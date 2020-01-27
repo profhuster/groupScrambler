@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    background-color: honeydew;
+}
+
+tr:nth-child(odd)    { background-color:linen; }
+tr:nth-child(even)    { background-color:azure; }
+
