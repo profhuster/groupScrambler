@@ -1,24 +1,24 @@
 4
 GAP2_1
 3
-Joseph Ciniello, Nici Dela Rama, Peter Demjanenko, Hannah Enderby, 
-Allison Fry, Carlan Gray, Anelise McGee, Lindsey Ocheltree, 
-Emily Sipko, Maria Strish, Abdulloh Yoldoshev, 
+Nici Dela Rama, Emily Sipko, Allison Fry, Abdulloh Yoldoshev,
+Hannah Enderby, Joey Ciniello, Carlan Gray, Maria Strish,
+Anelise McGee, Lindsey Ocheltree, Peter Demjanenko,
 GAP2_2
 5
-Alyssa Dawson, Jonathan Wehner, Tyler Krah, 
-Kezia Jemison, Grant Cook, Noah Worthy, Nicholas Shaffer, 
-Alexis Throop, Danielle Beres, Jacob Schwab, Ethan Heltz
-Taylor Teitelbaum, Kieran O'Sullivan, Cassidy Murphy, 
-Hannah Jason, Hannah Lasko, Ashley Banks,
+Hannah Jason, Kieran O'Sullivan, Jacob Schwab, Kezia Jemison,
+Nick Shaffer, Ethan Heltz, Alexis Throop, Hannah Lasko,
+Tyler Krah, Noah Worthy, Dani Beres,
+Jonathan Wehner, Grant Cook, Ashley Banks,
+Alyssa Dawson, Cassidy Murphy, Taylor Teitelbaum,
 GAP2_3
 2
-Alec Ippolito, Willem Trainor, Rebecca Nelson, 
-Sean Recktenwald, Grant Clark, Katelyn Spadavecchia, 
+Sean Recktenwald, Rebecca Nelson, Alec Ippolito,
+Willem Trainor, Katelyn Spadavecchia, Grant Clark,
 GAP2_4
 5
-Michelle Bohn, Aidan Hill, Rachel Pardee, Holly McGarvey, 
-Burton Carbino, Sarah Bergfelt, Ante Bevanda, Stephanie Connell, 
-Nicole Bohatch, Caitlin Greene, Zachary Avondo, 
-Alexander Barr, Christopher Stack, Alexander Guy, Carley Reith, 
-Emily McCarty, Shawn Bliss, Gian Cuchapin, Ryan Luca, 
+Alexander Guy, Carley Reith, Nicole Bohatch, Rachel Pardee,
+Michelle Bohn, Ryan Luca, Holly McGarvey, Alexander Barr,
+Tony Carbino, Emily McCarty, Caitlin Greene, Ante Bevanda,
+Zachary Avondo, Stephanie Connell, Sarah Bergfelt, Christopher Stack,
+Gian Cuchapin, Shawn Bliss, Aidan Hill,
